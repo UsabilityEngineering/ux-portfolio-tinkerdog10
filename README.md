@@ -1,6 +1,6 @@
 # Sarah's UX Portfolio
 
-![Picture of Sarah](/assets/biopic)
+![Picture of Sarah](/assets/biopic.jpg)
 
 My name is Sarah and I am working on a CAGD Major in order to be a 3D modeler for animation.
 
