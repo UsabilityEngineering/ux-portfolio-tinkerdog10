@@ -1,6 +1,6 @@
-# UX Portfolio
+# Sarah's UX Portfolio
 
-About me...
+My name is Sarah and I am working on a CAGD Major in order to be a 3D modeler for animation.
 
 ## UX Team Project
 
