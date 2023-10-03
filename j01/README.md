@@ -1,4 +1,4 @@
-[Sarah's UX Portfolio](https://github.com/UsabilityEngineering/ux-portfolio-tinkerdog10/blob/e12e968bb65cb161f9ea184ccd68190b54c3904d/README.md)
+[Sarah's UX Portfolio](..)
 #
 **"Undoing Render Changes”**
 
