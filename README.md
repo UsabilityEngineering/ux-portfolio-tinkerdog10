@@ -10,4 +10,4 @@ Coming soon.
 
 ## UX Journal
 
-[Undoing Render Changes](https://github.com/UsabilityEngineering/ux-portfolio-tinkerdog10/tree/9159dd0a004ad6682e780b1858893b30ec4d4e3c/j01#readme)
+[Undoing Render Changes](/j01)
