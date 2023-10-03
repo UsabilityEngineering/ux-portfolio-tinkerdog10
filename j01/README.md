@@ -1,8 +1,11 @@
+[Sarah's UX Portfolio](https://github.com/UsabilityEngineering/ux-portfolio-tinkerdog10/blob/e12e968bb65cb161f9ea184ccd68190b54c3904d/README.md)
+#
 **"Undoing Render Changes”**
 
 **Sarah Youngdahl**
 
 **9/22/2023**
+#
 
 I am currently working on a Computer Animation and Game Development major in the Animation Track with a CGI focus. In less confusing terms, this means I am learning how to make the visuals for a videogame or film. Much like a potter must sculpt a bowl and then paint on its color, I must create a blank 3D model and then add on color and details. For the task of adding color and details, I use a program called Adobe Substance 3D Painter. Think of it like Photoshop on a 3D canvas. 
 
