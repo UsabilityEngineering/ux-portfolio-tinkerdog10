@@ -10,4 +10,4 @@ Coming soon.
 
 ## UX Journal
 
-[Undoing Render Changes](/j01)
+[Undoing Render Changes](j01/)
