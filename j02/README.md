@@ -4,7 +4,7 @@
 
 **Sarah Youngdahl**
 
-**9/22/2023**
+**12/4/2023**
 #
 
 Lately, I’ve been thinking a lot about the importance of icons. Properly used, icons are a way to use common iconography to imply to the user a button’s intended purpose. This can save a lot of space on the screen, as you can avoid having to use a lot of typed-out labels. For instance, think of the power button on your computer. It is likely labeled with a circle with a line splitting through the top. Think about how much more space that button would take up if we had to write out the word “Power” on or next to the button. A **useful** icon quickly allows the user to infer meaning and find what they are looking for. It serves a purpose to the user.
