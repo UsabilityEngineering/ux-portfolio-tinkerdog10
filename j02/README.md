@@ -63,7 +63,7 @@ We see that it is labeled as the sculpt tool. We can also see the names of the o
 
 ![Sculpt Tool Settings Window](../assets/J2_P12.png)
  
-This all brings us to the root issue with Maya and icons. Things are simply not **visible**. Everything is hidden behind a wall of vague icons and keystrokes. The purpose of icons is quite literally to make things visible. You should be able to see what it does so you know what you need to click to reach your goal. The user shouldn’t have to struggle to find out what a tool is called or what it does. 
+This all brings us to the root issue with Maya and icons. Things are simply not immediately **visible**. Everything is hidden behind a wall of vague icons and keystrokes. The purpose of icons is quite literally to make things visible. You should be able to see what it does so you know what you need to click to reach your goal. The user shouldn’t have to struggle to find out what a tool is called or what it does. 
 In the end, I was able to model a pumpkin stem using the sculpting tools, but it wasn’t easy and I frequently had to hover search around for the type of tool I needed. Here’s a picture of the actual stem I made at the time. 
 
 ![Pumpkin Stem](../assets/J2_P13.png)
