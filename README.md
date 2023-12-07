@@ -11,4 +11,5 @@ Coming soon.
 ## UX Journal
 
 [Undoing Render Changes](j01/)
+
 [Maya Icon Problems](j02/)
